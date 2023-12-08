@@ -1,5 +1,6 @@
 # 
 Library Management System in C
+
 This project is a collaborative effort by four students to develop a library management system using the C programming language.
 
 Project Overview
