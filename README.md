@@ -60,8 +60,11 @@ Credits
 This project is a collaborative effort by:
 
 [Abdelrahman Khaled]
+
 [Wadie 	Bishoy Botros]
+
 [Anas	Issa]
+
 [Mohaned	Mahmoud]
 
 We are open to feedback and suggestions. Please feel free to contact us if you have any questions or comments.
